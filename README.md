@@ -27,6 +27,13 @@ jenkins ALL=(ALL) NOPASSWD:ALL
 
 ### 3. Creating the Production Job in Jenkins :
 
+https://github.com/sahanabalappa/DEVOPS-TASK1/blob/master/Production_execute_shell_code
+
+### 4. Creating the Production Deployment Job in Jenkins :
+
+
+
+
 
 
 
