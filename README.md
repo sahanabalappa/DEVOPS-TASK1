@@ -31,6 +31,28 @@ https://github.com/sahanabalappa/DEVOPS-TASK1/blob/master/Production_execute_she
 
 ### 4. Creating the Production Deployment Job in Jenkins :
 
+https://github.com/sahanabalappa/DEVOPS-TASK1/blob/master/Production_Deploy_Execute_shell_code
+
+### 5. Creating the Developer Job in Jenkins :
+
+https://github.com/sahanabalappa/DEVOPS-TASK1/blob/master/Developer_execute_shell_code
+
+### 6. Creating the Developer Deployment Job in Jenkins :
+
+https://github.com/sahanabalappa/DEVOPS-TASK1/blob/master/Production_Deploy_Execute_shell_code
+
+### 7. Job of Merging in Jenkins :
+
+https://github.com/sahanabalappa/DEVOPS-TASK1/blob/master/Allow_merge_execute_shell_code
+
+## Future possibilities :
+integrate the same concept using Cloud Services
+
+
+
+
+
+
 
 
 
